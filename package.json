@@ -1,0 +1,22 @@
+{
+  "name": "firsthapiapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgoering/firsthapiapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgoering/firsthapiapp/issues"
+  },
+  "homepage": "https://github.com/jgoering/firsthapiapp#readme",
+  "dependencies": {
+    "hapi": "^17.8.1"
+  }
+}
